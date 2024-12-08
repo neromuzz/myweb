@@ -1,0 +1,15 @@
+<html>
+
+<head>
+    <style>
+        body, html {
+            text-align: center;
+            background-color: black;
+            color: white
+        }
+    </style>
+</head>
+    <h1>
+    </h1>
+
+</html>
